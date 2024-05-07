@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheStriver97
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development from The Odin Project
-- 💞️ I’m looking to collaborate on web development open-source projects
+- 💞️ Checkout my portfolio on https://portfolio-site-five-livid.vercel.app/
 
 <!---
 TheStriver97/TheStriver97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
