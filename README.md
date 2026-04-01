@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TheStriver97
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning cloud engineering from https://learntocloud.guide/ 
-- 🤝 Looking to get into Cloud Support Engineering! - Primarily focusing on Azure Fundamentals!
+- 🤝 Looking to get into Cloud Support Engineering! 
+- Primarily focusing on Azure Fundamentals!
